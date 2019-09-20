@@ -4,9 +4,13 @@ This project shows the impact of economic, social and military activities on sto
 
 I have took five companies that have shares at the Warsaw Stock Exchange:
 -PKN Orlen
+
 -Indykpol
+
 -UniCredit
+
 -KGHM Polska Miedź
+
 -Żywiec
 
 Then i choose six events. Two of economics, two of military and two of social.
