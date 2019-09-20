@@ -41,7 +41,7 @@ I Graphs) I have downloaded shares closing price data from three months before e
 By red dotted line i showed the exactly time of event.
 
 
-II Index-mean) Two sample permutation test. I took the data from seven days before and after event. With this data i created chain indexes. Then i made the two sample permutation test. I permutated this 1000 times and created plot with the result. P value stand for 0.05
+II Index-mean) Two sample permutation test. I took the data from seven days before and after event. With this data i created chain indexes. Then i made the two sample permutation test. I permutated this thousand times and created plot with the result. P value stand for 0.05
 
 
-III Permutation-test) I created two time series from the data 7 days before and after event. Then for each of the time series i made the generalized least squares regression. I took the estimated values from linear model and in next step make a loop where i do permutation by 1000 times for this data. P value stands for 0.05
+III Permutation-test) I created two time series with the data from seven days before and after event. Then for each of the time series i made the generalized least squares regression. I took the estimated values from linear model and in next step make a loop where i do permutation by thousand times for this data. P value stands for 0.05
