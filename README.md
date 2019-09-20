@@ -3,6 +3,7 @@
 This project shows the impact of economic, social and military activities on stocks of selected companies in the Warsaw Stock Exchange. 
 
 I have took five companies that have shares at the Warsaw Stock Exchange:
+
 -PKN Orlen
 
 -Indykpol
@@ -14,12 +15,25 @@ I have took five companies that have shares at the Warsaw Stock Exchange:
 -Żywiec
 
 Then i choose six events. Two of economics, two of military and two of social.
+
+
 -Annexation of Crimea in 2014
+
+
 -Osama Bin Laden Death in 2011
+
+
 -Embargo of Iranian fuels in 2018
+
+
 -Financial crysis in 2008
+
+
 -European Football Championship in 2012
+
+
 -Polish Presidential Election in 2015
+
 
 There are three parts of the project:
 
